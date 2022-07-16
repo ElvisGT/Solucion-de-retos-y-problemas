@@ -1,0 +1,9 @@
+{
+  "name": "Solucion-de-retos-y-problemas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ElvisGT/Solucion-de-retos-y-problemas.git",
+  "author": "ElvisGT",
+  "license": "MIT",
+  "type": "module"
+}
